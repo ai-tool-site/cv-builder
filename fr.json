@@ -1,0 +1,24 @@
+{
+  "previewTitle": "Aperçu du CV",
+  "done": "Terminé",
+  "export": "Exporter en PDF",
+  "theme": "Thème",
+  "sectionTitles": {
+    "Education": "Éducation",
+    "Employment": "Expérience professionnelle",
+    "Courses": "Cours",
+    "Internships": "Stages",
+    "Skills": "Compétences",
+    "Languages": "Langues",
+    "Hobbies": "Loisirs",
+    "Extracurricular Activities": "Activités extrascolaires",
+    "References": "Références",
+    "Qualities": "Qualités",
+    "Certificates": "Certificats",
+    "Achievements": "Réalisations",
+    "Profile Summary": "Profil",
+    "Signature": "Signature",
+    "Footer": "Pied de page",
+    "Custom Section": "Section personnalisée"
+  }
+}

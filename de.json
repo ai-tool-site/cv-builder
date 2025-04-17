@@ -1,0 +1,24 @@
+{
+  "previewTitle": "Lebenslauf Vorschau",
+  "done": "Fertig",
+  "export": "PDF exportieren",
+  "theme": "Thema",
+  "sectionTitles": {
+    "Education": "Ausbildung",
+    "Employment": "Berufserfahrung",
+    "Courses": "Kurse",
+    "Internships": "Praktika",
+    "Skills": "Fähigkeiten",
+    "Languages": "Sprachen",
+    "Hobbies": "Hobbys",
+    "Extracurricular Activities": "Außerschulische Aktivitäten",
+    "References": "Referenzen",
+    "Qualities": "Eigenschaften",
+    "Certificates": "Zertifikate",
+    "Achievements": "Erfolge",
+    "Profile Summary": "Profilzusammenfassung",
+    "Signature": "Unterschrift",
+    "Footer": "Fußzeile",
+    "Custom Section": "Benutzerdefinierter Abschnitt"
+  }
+}

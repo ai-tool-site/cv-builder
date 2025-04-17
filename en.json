@@ -1,0 +1,24 @@
+{
+  "previewTitle": "Live CV Preview",
+  "done": "Done",
+  "export": "Export PDF",
+  "theme": "Theme",
+  "sectionTitles": {
+    "Education": "Education",
+    "Employment": "Employment",
+    "Courses": "Courses",
+    "Internships": "Internships",
+    "Skills": "Skills",
+    "Languages": "Languages",
+    "Hobbies": "Hobbies",
+    "Extracurricular Activities": "Extracurricular Activities",
+    "References": "References",
+    "Qualities": "Qualities",
+    "Certificates": "Certificates",
+    "Achievements": "Achievements",
+    "Profile Summary": "Profile Summary",
+    "Signature": "Signature",
+    "Footer": "Footer",
+    "Custom Section": "Custom Section"
+  }
+}
